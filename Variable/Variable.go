@@ -7,7 +7,7 @@ package main
 // 1 Package level variables examples:
 // var x int = 10
 // var y string = "Hello, World!"
-// var z bool = truepackage main
+// var z bool = true
 
 // import "fmt"
 
